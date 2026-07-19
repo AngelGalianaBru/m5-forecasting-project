@@ -15,3 +15,6 @@ SQLAlchemy
 typing-extensions
 urllib3
 zipp
+pyspark
+jupyter
+findspark
