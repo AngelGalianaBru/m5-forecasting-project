@@ -18,3 +18,4 @@ zipp
 pyspark
 jupyter
 findspark
+pyarrow
